@@ -1,7 +1,1 @@
-Q3. Docker based deployment with testing
-for the flask application:
-    create dockerfile and build image
-    run container and verify output
-    perform basic integration testing
-
 Flask-Login==0.6.2
