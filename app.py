@@ -7,3 +7,7 @@ def home():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+@app.route('/login')
+def login():
+    return "Login Page"    
